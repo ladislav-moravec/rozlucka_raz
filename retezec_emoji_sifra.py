@@ -39,6 +39,6 @@ def encrypt_string(string):
     return encrypted_string
 
 
-input_string = "ahoj razi nyni te ceka dalsi ukol a to stezka odvahy v zoologicka zahrade tak at se ti dari"
+input_string = "ahoj razi nyni te ceka dalsi ukol a to stezka odvahy v zoologicke zahrade tak at se ti dari"
 encrypted_string = encrypt_string(input_string)
 print(encrypted_string)
