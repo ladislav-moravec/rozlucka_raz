@@ -6,7 +6,7 @@ def swap_chars(string):
     swapped_string = ''.join(char_list)
     return swapped_string
 
-input_string = "nyní musíš předvést, zda umíš rodině zaopatřit jídlo, chyť na náměstí holuba frajere"
+input_string = "nyní musíš předvést, zda umíš rodině zaopatřit jídlo, chyť na náměstí holuba frajere, ale ať to máš jednodušší, tak si vezmi svá křídla, potom zapadneš"
 swapped_string = swap_chars(input_string)
 print(swapped_string)
 
